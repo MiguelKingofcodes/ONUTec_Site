@@ -1,5 +1,5 @@
 # ONUTec_Site
-Um site para inscrição na <b>ONUTEC NOTURNA</b> da Escola Etec Dr. Domingues Minicucci Filho 
+Um site para inscrição na <b>ONUTEC NOTURNA</b> da Escola Etec Dr. Domingues Minicucci Filho:
 <hr>
 <h1>Comitês:</h1>
 <h2>ACNUR</h2>
