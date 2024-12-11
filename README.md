@@ -37,6 +37,7 @@ Um site para inscrição na <b>ONUTEC NOTURNA</b> da Escola Etec Dr. Domingues M
 <h2>CSNU</h2>
 <p></p>
 <a></a>
+<hr>
 <h2>Planos para o projeto:</h2>
 <p>Planejo atualizar o Design do projeto e utilizar PHP para o cadastro nos comitês, evitando o uso de Google Forms</p>
 <hr>
