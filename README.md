@@ -12,9 +12,6 @@ Um site para inscrição na <b>ONUTEC NOTURNA</b> da Escola Etec Dr. Domingues M
   <li>Google Forms -> Cadastrar os alunos e enviar os dados para uma planílhia</li>
 </ul>
 <hr>
-<h2>Planos para o projeto:</h2>
-<p>Planejo atualizar o Design do projeto e utilizar PHP para o cadastro nos comitês, evitando o uso de Google Forms</p>
-<hr>
 <h1>Comitês:</h1>
 <h2>ACNUR</h2>
 <p></p>
@@ -40,3 +37,6 @@ Um site para inscrição na <b>ONUTEC NOTURNA</b> da Escola Etec Dr. Domingues M
 <h2>CSNU</h2>
 <p></p>
 <a></a>
+<h2>Planos para o projeto:</h2>
+<p>Planejo atualizar o Design do projeto e utilizar PHP para o cadastro nos comitês, evitando o uso de Google Forms</p>
+<hr>
